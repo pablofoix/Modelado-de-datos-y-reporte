@@ -43,11 +43,11 @@ El objetivo es simular un entorno real de BI, contemplando procesos de modelado,
 ---
 
 ## 📈 Dashboard
-![Ventas](04_power_bi/capturas/Ventas_1.png)
-![Clientes](04_power_bi/capturas/Clientes_2.png)
-![Productos](04_power_bi/capturas/Productos_3.png)
-![Pagos](04_power_bi/capturas/Pagos_4.png)
-![Pedidos](04_power_bi/capturas/Pedidos_5.png)
+![Ventas](04_POWEBRI/Capturas/Ventas_1.png)
+![Clientes](04_POWERBI/Capturas/Clientes_2.png)
+![Productos](04_POWERBI/Capturas/Productos_3.png)
+![Pagos](04_POWERBI/Capturas/Pagos_4.png)
+![Pedidos](04_POWERBI/Capturas/Pedidos_5.png)
 ---
 
 ## 🚀 Cómo ejecutar el proyecto
