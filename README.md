@@ -43,7 +43,7 @@ El objetivo es simular un entorno real de BI, contemplando procesos de modelado,
 ---
 
 ## 📈 Dashboard
-![Ventas](04_POWEBRI/Capturas/Ventas_1.png)
+![Ventas](04_POWERBI/Capturas/Ventas_1.png)
 ![Clientes](04_POWERBI/Capturas/Clientes_2.png)
 ![Productos](04_POWERBI/Capturas/Productos_3.png)
 ![Pagos](04_POWERBI/Capturas/Pagos_4.png)
