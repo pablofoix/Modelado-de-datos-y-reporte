@@ -6,6 +6,13 @@ Este proyecto consiste en el diseño e implementación de un sistema completo qu
 El objetivo es simular un entorno real de BI, contemplando procesos de modelado, carga, versionado histórico y análisis de datos.
 
 ---
+## 💡 Qué se destaca en este proyecto
+
+- Diseño completo de OLTP y Data Warehouse
+- Implementación de Slowly Changing Dimension Tipo 2
+- Creación de modelo estrella
+- Scripts de carga y transformación
+- Dashboard analítico en Power BI
 
 ## 🛠️ Tecnologías utilizadas
 - SQL Server
@@ -36,8 +43,11 @@ El objetivo es simular un entorno real de BI, contemplando procesos de modelado,
 ---
 
 ## 📈 Dashboard
-(se agregan imágenes)
-
+![Ventas](04_power_bi/capturas/Ventas_1.png)
+![Clientes](04_power_bi/capturas/Clientes_2.png)
+![Productos](04_power_bi/capturas/Productos_3.png)
+![Pagos](04_power_bi/capturas/Pagos_4.png)
+![Pedidos](04_power_bi/capturas/Pedidos_5.png)
 ---
 
 ## 🚀 Cómo ejecutar el proyecto
